@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Dev Gangavkar  <br>A Java Backend Developer specializing in Spring Boot  with 3.5+ years of industry experience, currently working as an SDE-II at a large MNC.  <br>🚀 Strong focus on building scalable backend systems.<br>🔧 Hands-on experience in:<br>- Developing and maintaining Spring Boot applications<br>- Designing RESTful APIs and integrating MySQL databases<br>- Application deployment<br><br>📈 Eager to learn and adapt to new technologies.<br><br>🎯 Passionate about backend engineering, problem-solving, and writing maintainable, production-ready code.<br><br> Here is my portfolio: https://www.dev-gangavkar.netlify.app <br>
+Hi 👋, I'm Dev Gangavkar  <br>A Java Backend Developer specializing in Spring Boot  with 3.5+ years of industry experience, currently working as an SDE-II at a large MNC.  <br>🚀 Strong focus on building scalable backend systems.<br>🔧 Hands-on experience in:<br>- Developing and maintaining Spring Boot applications<br>- Designing RESTful APIs and integrating MySQL databases<br>- Application deployment<br><br>📈 Eager to learn and adapt to new technologies.<br><br>🎯 Passionate about backend engineering, problem-solving, and writing maintainable, production-ready code.<br><br> Here is my portfolio: https://dev-gangavkar.netlify.app <br>
 
 
 ## 🌐 Socials:
