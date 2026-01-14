@@ -26,13 +26,7 @@ Hi 👋, I'm Dev Gangavkar  <br>A Java Backend Developer specializing in Spring 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Dev-G29&theme=dark&show_icons=true&hide_border=false&cache_seconds=86400)
-
-![](https://streak-stats.demolab.com?user=Dev-G29&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-G29&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
 
 ### ✍️  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
